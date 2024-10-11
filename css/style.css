@@ -1,0 +1,18 @@
+/*-------------------------
+    FORMATAÇÃO TOPO
+------------------------*/
+/*-------------------------
+        FORMATAÇÃO GERAL
+--------------------------*/
+
+header nav ul li a.sobre {
+    background-color:rgb(102,51,102);
+    border-radius: 30px;
+    padding: 20px;
+    color: white;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+section.alimentacao{
+    background-color: #E8DAFB;
+}
